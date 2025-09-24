@@ -112,13 +112,7 @@ Welcome to my GitHub! I'm a graduate student and Research Assistant at George Wa
 - GitHub: [github.com/karan-patel11](https://github.com/karan-patel11)
 - Email: karanpatel@gwu.edu
 
-## 🌟 Visual Elements & Engagement
 
-- Add badges for each key technology (see above).
-- Use [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats) for profile analytics.
-- Showcase project GIFs, screenshots, or logo icons aligned left/right.
-- Add an "Open for Collaboration/Sponsor" section with links.
-- Enhance with hackathon and certification badges if available.
 
 > _Let's create, innovate, and shape the future of AI and fintech together._ 🚀
 
