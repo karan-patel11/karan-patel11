@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a graduate student and Research Assistant at George Wa
 - Scalable Systems & DevOps (AWS, CI/CD, Docker)
 - UX/UI Design (CSS3, WWDC-inspired, responsive interfaces)
 
-<h2 align="center">🏆 Featured Projects</h2>
+## 🏆 Featured Projects
 
 <p align="center">
   <table>
