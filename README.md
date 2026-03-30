@@ -1,119 +1,154 @@
-<!-- Portfolio README Template for Karan Patel -->
+<div align="center">
 
-# Hi, I'm Karan Patel 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents+%26+Fintech+Infrastructure;Co-Founder+%7C+600K%2B+Users+%7C+M.S.+CS+%40+GWU;Python+%E2%80%A2+React+%E2%80%A2+LLMs+%E2%80%A2+Distributed+Systems)](https://karan-patel11.github.io/PortfolioWebsite./)
 
-**Graduate Student • AI Researcher • Fintech Co-Founder • Developer @ GWU**
-
-Welcome to my GitHub! I'm a graduate student and Research Assistant at George Washington University, currently advancing AI-driven trading tech at TWODS CAPITAL INC. My expertise spans Large Language Models (LLMs), algorithmic trading, full stack engineering, and scalable cloud-first architectures.
-
-## 🚀 Core Competencies
-
-- Artificial Intelligence / Machine Learning (TensorFlow, CNNs, LLMs)
-- Algorithmic Trading & Financial Technology
-- Full Stack Web Development (React, Node.js, MongoDB)
-- Scalable Systems & DevOps (AWS, CI/CD, Docker)
-- UX/UI Design (CSS3, WWDC-inspired, responsive interfaces)
-
-## 🏆 Featured Projects
-
-<p align="center">
-  <table>
-    <tr>
-      <td width="320" valign="top">
-        <a href="https://github.com/karan-patel11/MentalHealthAI"><b>MentalHealthAI</b></a><br>
-        <sub>AI-powered assessment platform for early mental health detection.</sub><br>
-        <code>Python</code> <code>TensorFlow</code> <code>AWS</code>
-      </td>
-      <td width="320" valign="top">
-        <a href="https://github.com/karan-patel11/CodeKraft"><b>CodeKraft</b></a><br>
-        <sub>Automated code grading & feedback for programming exams.</sub><br>
-        <code>Node.js</code> <code>MongoDB</code> <code>React</code> <code>LLMs</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="320" valign="top">
-        <a href="https://github.com/karan-patel11/CNN-Pneumonia"><b>CNN Pneumonia</b></a><br>
-        <sub>Real-time pneumonia detection with convolutional neural nets.</sub><br>
-        <code>Python</code> <code>CNN</code> <code>TensorFlow</code>
-      </td>
-      <td width="320" valign="top">
-        <a href="https://github.com/karan-patel11/StockLSTM"><b>StockLSTM</b></a><br>
-        <sub>Stock market trend predictions using LSTM models.</sub><br>
-        <code>Python</code> <code>LSTM</code> <code>pandas</code> <code>NumPy</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="320" colspan="2" valign="top">
-        <a href="https://github.com/karan-patel11/PortfolioWebsite"><b>PortfolioWebsite</b></a><br>
-        <sub>Modern WWDC-inspired portfolio with liquid glass UI effects.</sub><br>
-        <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Figma</code>
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-> ## 🌐 Portfolio Website Preview [LIVE]
->
-> [![Portfolio Preview](https://github.com/user-attachments/assets/91468e65-33c1-472b-be0f-dbe5ba9ffa90)](https://karan-patel11.github.io/PortfolioWebsite./)
->
-> In today’s rapidly moving tech landscape, this portfolio highlights innovation across AI, fintech, and full stack engineering projects. Click the preview above to explore the live site, featuring interactive project cards, a WWDC-inspired UI, and robust examples of professional and creative work.
-
-
-## 🧰 Technologies & Tools 
-
-### Most Used vs Other Technologies
-
-| Category        | Most Used (Primary)                   | Other Tools & Technologies                 |
-|-----------------|---------------------------------------|--------------------------------------------|
-| Languages       | Python, JavaScript                    | TypeScript, C++, Java, SQL                 |
-| Frameworks      | TensorFlow, React, Node.js            | Django, Express, Flask                     |
-| Cloud/DevOps    | AWS, Docker, GitHub Actions           | Google Cloud, Jenkins, Kubernetes          |
-| Databases       | MongoDB, PostgreSQL                   | MySQL, SQLite                              |
-| ML/AI           | LLMs, CNN, LSTM                       | Scikit-learn, spaCy                        |
-| Frontend/Design | CSS3, WWDC-inspired, Figma            | Bootstrap, Material UI                     |
+</div>
 
 ---
 
-### Skills & Domains Focus
-
-![Skills & Domains Focus Pie Chart](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/900572820088559755b2b0c71b79f61e/dc51f603-b941-4d23-be62-13a1894f948d/d93c015a.png)
-
-- **Machine Learning (ML):** 22%
-- **Artificial Intelligence (AI):** 18%
-- **Cloud/DevOps:** 17%
-- **CI/CD & Automation:** 12%
-- **Frontend (React, CSS, UI):** 10%
-- **Backend (Node.js, APIs):** 8%
-- **Databases (MongoDB, PostgreSQL):** 5%
-- **Product/Design (Figma, UX):** 4%
-- **Testing/QA:** 2%
-- **APIs/Integrations:** 2%
-
-### Technology Badges
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
- 
-
-## 📬 Contact & Links
-
-- Portfolio: [karan-patel11.github.io/PortfolioWebsite./](https://karan-patel11.github.io/PortfolioWebsite./)
-- LinkedIn: [linkedin.com/in/karanpatel11](https://linkedin.com/in/karanpatel11)
-- GitHub: [github.com/karan-patel11](https://github.com/karan-patel11)
-- Email: karanpatel@gwu.edu
-
-
-
-> _Let's create, innovate, and shape the future of AI and fintech together._ 🚀
+```yaml
+name: Karan Patel
+role: Software Engineer & AI Builder
+education: M.S. Computer Science @ George Washington University (2026)
+company: Co-Founder @ TWODS Capital | 600K+ annual users
+focus: [AI Agents, LLMs, Full-Stack Engineering, Fintech]
+current: Building QuantEra AI — multi-agent equity research platform
+status: Open to full-time SWE / MLE roles (OPT, no sponsorship needed to start)
+```
 
 ---
+
+### What I Build
+
+I don't just use AI — I build the infrastructure behind it. From multi-agent orchestration to production inference pipelines, I ship systems that work at scale.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[QuantEra AI](https://github.com/karan-patel11/QuantEra-AI)** — *Multi-Agent Equity Research*
+> 8-dimension analysis across 80+ factors using LangChain, RAG, Groq API (Llama 3.1 70B), and ARIMA/Prophet/XGBoost ensemble. Bull-Bear adversarial debate protocol with Kelly-ATR sizing.
+
+`Python` `LangChain` `RAG` `Multi-Agent` `XGBoost`
+
+</td>
+<td width="50%" valign="top">
+
+**[CodeKraft](https://github.com/kaps117/CodeKraft)** — *AI Code Generation & Evaluation*
+> Trained on 500K+ examples. CodeBLEU 52.3%, Token-level F1 75.4%, sub-250ms inference on Tesla T4. FastAPI service with GPU-optimized model serving.
+
+`Python` `CodeT5` `OpenAI GPT` `FastAPI` `GPU Inference`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[MindMate](https://github.com/karan-patel11/MentalHealthAi)** — *AI Wellness Platform* &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://mind-mate-wellness.vercel.app)
+> Full-stack React + Node.js + MongoDB with Gemini AI and real-time WebSocket chat. Recognized at H2AI Georgetown Hackathon.
+
+`React` `Node.js` `MongoDB` `Gemini AI` `WebSockets`
+
+</td>
+<td width="50%" valign="top">
+
+**[SafeLink](https://github.com/karan-patel11/SafeLink)** — *Phishing Detection Engine*
+> Chrome extension with 22-feature weighted classifier, Google Safe Browsing API v4, URL entropy analysis, typosquat detection, and brand spoofing identification.
+
+`JavaScript` `Chrome MV3` `ML Classifier` `Security`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Scalable Blog Pipeline](https://github.com/karan-patel11/Scalable-Blog-App-Deployment-Pipeline)** — *Cloud-Native CI/CD*
+> Java/Spring Boot on AWS EKS with Helm, Jenkins, SonarQube, Trivy. Zero-downtime rolling updates with pod autoscaling.
+
+`Java` `Spring Boot` `AWS EKS` `Docker` `Kubernetes`
+
+</td>
+<td width="50%" valign="top">
+
+**[CNN-Pneumonia](https://github.com/karan-patel11/CNN-Pneumonia)** — *Medical Image Classification*
+> Deep learning model for pneumonia detection from chest X-rays using TensorFlow and convolutional neural networks.
+
+`Python` `TensorFlow` `CNN` `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML / Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Full Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+
+### The Numbers
+
+<div align="center">
+
+| Metric | Value |
+|:---|:---|
+| **TWODS Capital Users** | 600K+ annually |
+| **CodeKraft Training Data** | 500K+ examples |
+| **QuantEra AI Factors** | 80+ across 8 dimensions |
+| **SafeLink Features** | 22-feature classifier |
+| **Hackathon Recognition** | H2AI Georgetown |
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://karan-patel11.github.io/PortfolioWebsite./)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patelkaran11)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelkaran.tech@gmail.com)
+
+</div>
+
+<div align="center">
+<sub>M.S. Computer Science @ GWU (May 2026) | OPT eligible, no sponsorship needed to start</sub>
+</div>
